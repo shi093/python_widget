@@ -5,3 +5,4 @@ This is a tool for reading your daily horoscope. Run each code block in sequence
 
 Medium article on this application: https://towardsdatascience.com/create-interactive-tools-in-google-colab-using-widgets-8a1a504d3b7e
 
+![](GIF_Animation.GIF)
